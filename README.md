@@ -1,4 +1,5 @@
-#HTLM
-```html
-<!DOCTYPE htlm5>
-```
+<!DOCTYPE htlm>
+<htlm>
+<head>
+<title> EGOIST</title>
+</head>
